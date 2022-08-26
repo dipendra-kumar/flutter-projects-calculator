@@ -1,8 +1,4 @@
-# calculator
-
-A new Flutter project.
-
-## Getting Started
+# Calculator
 
 This is a simple Calculator app made in Flutter.
 
